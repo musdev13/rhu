@@ -1,11 +1,11 @@
 <div align="center">
  <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Hytale_logo.png" width="250">
- 
+
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/1200px-Rustacean-orig-noshadow.svg.png" width="100">
  <h1>Rust Hytale Utility</h1>
 </div>
 
-**RHU** is a universal command-line utility for **Hytale**, designed to help you manage your worlds, mods, and other game data efficiently. With Hle, you can easily export/import worlds, delete worlds, manage mods, and perform other administrative tasks — all from the terminal.
+**rhu** is a universal command-line utility for **Hytale**, designed to help you manage your worlds, mods, and other game data efficiently. With Hle, you can easily export/import worlds, delete worlds, manage mods, and perform other administrative tasks — all from the terminal.
 
 --- 
 
