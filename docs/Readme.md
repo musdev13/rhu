@@ -1,6 +1,6 @@
 <div align="center">
  <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Hytale_logo.png" width="250">
-
+ <p>----------------------------------</p>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/1200px-Rustacean-orig-noshadow.svg.png" width="100">
  <h1>Rust Hytale Utility</h1>
 </div>
